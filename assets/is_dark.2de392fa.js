@@ -1,1 +1,0 @@
-import{aB as a,aC as e}from"./mermaid.core.7e7e9e39.js";const n=n=>(n=>{const{r:r,g:o,b:t}=e.parse(n),s=.2126*a.channel.toLinear(r)+.7152*a.channel.toLinear(o)+.0722*a.channel.toLinear(t);return a.lang.round(s)})(n)>=.5,r=a=>!n(a);export{r as i};
