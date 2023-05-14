@@ -1,1 +1,0 @@
-const e={key:"v-789ba7ef",path:"/en/document/level-0/",title:"小小白白话文",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"en/document/level-0/README.md",git:{updatedTime:1622027153e3,contributors:[{name:"hmol233",email:"82594500+hmol233@users.noreply.github.com",commits:1}]}};export{e as data};
