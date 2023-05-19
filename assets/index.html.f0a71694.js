@@ -1,1 +1,0 @@
-const e={key:"v-789ba80e",path:"/en/document/level-1/",title:"Beginner's Tips",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"en/document/level-1/README.md",git:{updatedTime:1684107307e3,contributors:[{name:"Kevin Amiri",email:"amiri990.us@gmail.com",commits:1},{name:"hmol233",email:"82594500+hmol233@users.noreply.github.com",commits:1}]}};export{e as data};
